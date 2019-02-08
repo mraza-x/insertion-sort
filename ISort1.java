@@ -1,10 +1,3 @@
-/**
-Mohammed Raza
-CS 241 
-Fall 2013
-Programming Assignment 2
-November 21, 2013
-*/
 
 // Insertion Sort - Best case with n = 32
 
